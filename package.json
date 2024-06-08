@@ -1,8 +1,21 @@
 {
   "devDependencies": {
-    "@playwright/test": "^1.44.1"
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.2"
   },
   "dependencies": {
-    "playwright": "^1.44.1"
-  }
+    "playwright": "^1.44.1",
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {},
+  "name": "pw-practice-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
